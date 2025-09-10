@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Aflo23
 - 👀 I’m interested in positive impact tech more specifically related to LLMs, graphs.
 - I m really interested in building multimodal approach both on a research and an applied point of view.
-- 🌱 I’m currently learning at MVA Paris Saclay 
+- I m currently working on AI for maths problems (autoformalization, reinforcement learning, proof generation) 
+- 🌱 I was a MVA Paris Saclay student 
 - 💞️ I’m looking to collaborate on AI research projects
 - 📫 How to reach me firstname[dot]lastname@ens-rennes.fr
 - ⚡ Fun fact: I won a national table tennis competition in pairs without winning any of the final games, reach out to learn the trick :) Alexis and Felix Le Brun look out !!
